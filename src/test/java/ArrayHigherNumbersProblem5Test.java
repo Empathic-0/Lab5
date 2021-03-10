@@ -16,13 +16,6 @@ public class ArrayHigherNumbersProblem5Test {
     public ArrayHigherNumbersProblem5Test() {
     }
 
-    @Test
-    public void testMain() {
-        System.out.println("main");
-        String[] args = null;
-        ArrayHigherNumbersProblem5.main(args);
-     
-    }
 
     @Test
     public void testCountHigherThan() {
